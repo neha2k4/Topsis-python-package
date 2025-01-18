@@ -86,6 +86,6 @@ This package requires Python 3.7 or higher. Install any missing dependencies usi
 
 ## Author
 
-Developed by **Teena Sapra**.
+Developed by **Neha**.
 
 ---
